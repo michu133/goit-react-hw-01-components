@@ -1,4 +1,3 @@
-import styles from './TransactionHistory.module.css';
 import propTypes from 'prop-types';
 
 export const Transaction = ({ id, type, amount, currency }) => {
